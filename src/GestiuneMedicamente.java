@@ -19,6 +19,9 @@ public class GestiuneMedicamente {
 			System.out.println("Introduceti optiunea: ");
 
 			a = keyboard.nextInt();
+			
+			
+			
 
 			if (a == 1) {
 				
